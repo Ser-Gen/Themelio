@@ -513,6 +513,13 @@ sub {
   visibility: hidden !important;
 }
 
+.visible {
+  visibility: visible;
+}
+.visibleNow {
+  visibility: visible !important;
+}
+
     .showBlock { display: block; }
    .showInline { display: inline; }
 .showInlineBlock { display: inline-block; }
